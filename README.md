@@ -13,5 +13,6 @@ Herramienta para pruebas de penetración a redes inalámbricas
 - **Eliminar múltiples opciones para identificar la tarjeta de red, mejor que el usuario la elija**
 - **Agregar Evil Twin, MAC Spoof, DeAuth y MITM**
 - **Para el Evil Twin agregar una plantilla que posea la configuración del flasheo del firmware para implantar puerta trasera, etc.**
+- **Arreglar tarjeta de red en caso de que exista una colisión de canales (wlan0mon is on channel 5, but the AP uses channel 6)**
 - **Que se yo ¯\_(ツ)_/¯** 
 
