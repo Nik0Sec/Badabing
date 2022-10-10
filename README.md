@@ -13,5 +13,5 @@ Herramienta para pruebas de penetración a redes inalámbricas
 - **Eliminar múltiples opciones para identificar la tarjeta de red, mejor que el usuario la elija**
 - **Agregar Evil Twin, MAC Spoof, DeAuth y MITM**
 - **Para el Evil Twin agregar una plantilla que posea la configuración del flasheo del firmware para implantar puerta trasera, etc.**
-- ** ¯\_(ツ)_/¯ ** 
+- ** Que se yo ¯\_(ツ)_/¯ ** 
 
